@@ -1,0 +1,5 @@
+C:\Users\2\source\repos\ProjectRenamer\ProjectRenamer\obj\Debug\net5.0\ProjectRenamer.csprojAssemblyReference.cache
+C:\Users\2\source\repos\ProjectRenamer\ProjectRenamer\obj\Debug\net5.0\ProjectRenamer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2\source\repos\ProjectRenamer\ProjectRenamer\obj\Debug\net5.0\ProjectRenamer.AssemblyInfoInputs.cache
+C:\Users\2\source\repos\ProjectRenamer\ProjectRenamer\obj\Debug\net5.0\ProjectRenamer.AssemblyInfo.cs
+C:\Users\2\source\repos\ProjectRenamer\ProjectRenamer\obj\Debug\net5.0\ProjectRenamer.csproj.CoreCompileInputs.cache
