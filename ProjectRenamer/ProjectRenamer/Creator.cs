@@ -22,7 +22,7 @@ namespace ProjectRenamer
             _sourceDirectory = new DirectoryInfo(_sourceName);
         }
 
-        public void MakeProject(string name, string foldersMake, string path)
+        public void MakeProject(string name, string path, string foldersFlag)
         {
             _projName = name;            
             _targetPath = GetPath(path);
@@ -39,7 +39,7 @@ namespace ProjectRenamer
             var programText = File.ReadAllText(programFile.FullName);
             File.WriteAllText(programFile.FullName, programText.Replace(_sourceName, _projName));
             _targetDirectory.SubdirectoryRename(_sourceName, _projName);
-            CreateDefaultFolders(foldersMake);
+            AddFolders(foldersFlag.ToUpper());
         }
 
         private string GetPath(string path)
@@ -52,6 +52,15 @@ namespace ProjectRenamer
             return @$"{path}\{_projName}";
         }
 
+        private void AddFolders(string folderrsFlag)
+        {
+            while (!CreateDefaultFolders(folderrsFlag))
+            {
+                Console.Write("You entered an invalid key, please try again (Y/N): ");
+                folderrsFlag = Console.ReadLine();
+                CreateDefaultFolders(folderrsFlag.ToUpper());
+            }
+        }
         private bool CreateDefaultFolders(string foldersMake)
         {
             if (foldersMake == "Y")

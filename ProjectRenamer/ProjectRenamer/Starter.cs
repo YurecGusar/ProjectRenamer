@@ -27,8 +27,8 @@ namespace ProjectRenamer
                 Console.WriteLine($"\t{item}");
             }
             Console.Write("(Y/N) :");
-            var addFolders = Console.ReadLine();
-            _creator.MakeProject(name, addFolders.ToUpper(), path);
+            var folderrsFlag = Console.ReadLine();
+            _creator.MakeProject(name, path, folderrsFlag);
         }
     }
 }
