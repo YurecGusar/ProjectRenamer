@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProjectRenamer",
+    "\\ProjectRenamer\\ProjectRenamer"
   ],
-  "SelectedNode": "\\StyleCop.sln",
+  "SelectedNode": "\\ProjectRenamer\\ProjectRenamer\\Creator.cs",
   "PreviewInSolutionExplorer": false
 }

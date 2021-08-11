@@ -25,3 +25,17 @@ E:\A-Level\ProjectRenamer\ProjectRenamer\obj\Debug\netcoreapp3.1\ProjectRenamer.
 E:\A-Level\ProjectRenamer\ProjectRenamer\obj\Debug\netcoreapp3.1\ProjectRenamer.pdb
 E:\A-Level\ProjectRenamer\ProjectRenamer\obj\Debug\netcoreapp3.1\ProjectRenamer.genruntimeconfig.cache
 E:\A-Level\ProjectRenamer\ProjectRenamer\bin\Debug\netcoreapp3.1\config.json
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\bin\Debug\netcoreapp3.1\ProjectRenamer.exe
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\bin\Debug\netcoreapp3.1\config.json
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\bin\Debug\netcoreapp3.1\ProjectRenamer.deps.json
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\bin\Debug\netcoreapp3.1\ProjectRenamer.runtimeconfig.json
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\bin\Debug\netcoreapp3.1\ProjectRenamer.runtimeconfig.dev.json
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\bin\Debug\netcoreapp3.1\ProjectRenamer.dll
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\bin\Debug\netcoreapp3.1\ProjectRenamer.pdb
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\obj\Debug\netcoreapp3.1\ProjectRenamer.csproj.AssemblyReference.cache
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\obj\Debug\netcoreapp3.1\ProjectRenamer.AssemblyInfoInputs.cache
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\obj\Debug\netcoreapp3.1\ProjectRenamer.AssemblyInfo.cs
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\obj\Debug\netcoreapp3.1\ProjectRenamer.csproj.CoreCompileInputs.cache
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\obj\Debug\netcoreapp3.1\ProjectRenamer.dll
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\obj\Debug\netcoreapp3.1\ProjectRenamer.pdb
+E:\A-Level\YurecGusar\ProjectRenamer\ProjectRenamer\ProjectRenamer\obj\Debug\netcoreapp3.1\ProjectRenamer.genruntimeconfig.cache
